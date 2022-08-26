@@ -7,7 +7,7 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["^1000Hi là chú đây,", 
-				"Gửi cháu tui,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p style=''>&nbsp;&nbsp;&nbsp;Sinh nhật vui vẻ nha cô bé! Tuổi mới hi vọng mọi thứ tốt đẹp sẽ đến với cháu. Chú biết có đôi lúc cháu thấy mệt mỏi, áp lực vì công việc, cuộc sống không như cháu hi vọng... Những lúc như thế hi vọng cháu sẽ nhớ đến chú chỉ cần 1 cuộc gọi bất kể cháu ở đâu, lúc nào chú sẽ đến bên cạnh cháu ngay. Hãy yên tâm vì chú sẽ luôn là nơi để cháu dựa vào.</p>&nbsp;&nbsp;&nbsp;Từ người đã ở cạnh cháu suốt 2 năm qua 💕!<br><br><p style='float:right; display:block;'>お誕生日おめでとう Ha Thu!\</p><br><p style='float:right; display:block;'>27/08/2022</p>&nbsp;&nbsp;&nbsp;&nbsp;"],
+				"Gửi cháu tui,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p style=''>&nbsp;&nbsp;&nbsp;Sinh nhật vui vẻ nha cô bé! Tuổi mới hi vọng mọi thứ tốt đẹp sẽ đến với cháu. Chú biết có đôi lúc cháu thấy mệt mỏi, áp lực vì công việc, cuộc sống không như cháu hi vọng... Những lúc như thế hi vọng cháu sẽ nhớ đến chú chỉ cần 1 cuộc gọi bất kể cháu ở đâu, lúc nào chú cũng sẽ đến bên cạnh cháu ngay. Hãy yên tâm vì chú sẽ luôn là nơi để cháu dựa vào.</p>&nbsp;&nbsp;&nbsp;Từ người đã theo đuổi cháu suốt 2 năm qua 💕!<br><br><p style='float:right; display:block;'>お誕生日おめでとう Ha Thu!\</p><br><p style='float:right; display:block;'>27/08/2022</p>&nbsp;&nbsp;&nbsp;&nbsp;"],
 			typeSpeed: 25,
 			backSpeed: 20
 		});
